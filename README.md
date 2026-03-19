@@ -1,4 +1,4 @@
-# Food_Delivery_ML_Model
+# Food_Delivery_ML_Project
 
 # 🍔 Food Delivery Data Analysis & Machine Learning Project
 
