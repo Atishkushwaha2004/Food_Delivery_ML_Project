@@ -42,12 +42,7 @@ The dataset contains information related to food delivery orders such as:
 - Encoding categorical variables (e.g., One-Hot Encoding / Label Encoding)
 - Feature transformation
 - Data normalization (if applied)
-
-Example:
-```python
-df['diabetic'] = df['diabetic'].map({'yes':1,'no':0})
-
-
+- 
 
 
 ## 📷 Output Screenshot
