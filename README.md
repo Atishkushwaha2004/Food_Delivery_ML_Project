@@ -46,3 +46,14 @@ The dataset contains information related to food delivery orders such as:
 Example:
 ```python
 df['diabetic'] = df['diabetic'].map({'yes':1,'no':0})
+
+
+
+
+## 📷 Output Screenshot
+
+<p align="center">
+<img width="1904" height="882" alt="image" src="https://github.com/user-attachments/assets/94c2dbea-83d5-4847-8b86-16d4c189be54" />
+
+</p>
+
