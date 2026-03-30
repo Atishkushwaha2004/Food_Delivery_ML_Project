@@ -53,7 +53,7 @@ df['diabetic'] = df['diabetic'].map({'yes':1,'no':0})
 ## 📷 Output Screenshot
 
 <p align="center">
-<img width="1904" height="882" alt="image" src="https://github.com/user-attachments/assets/94c2dbea-83d5-4847-8b86-16d4c189be54" />
+<img width="1904" height="882" alt="Screenshot 2026-03-30 231552" src="https://github.com/user-attachments/assets/08db1ea1-025c-4a45-989a-c1983509f55e" />
 
 </p>
 
