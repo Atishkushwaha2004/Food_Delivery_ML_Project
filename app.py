@@ -66,7 +66,7 @@ st.markdown(
 @st.cache_resource
 def load_model():
     model_files = [
-        "delivery_time_model.pkl",
+        "delivery_model.pkl",
         "lasso_model.pkl",
         "ridge_model.pkl",
         "delivery_model.pkl",
