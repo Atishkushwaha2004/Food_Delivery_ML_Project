@@ -42,6 +42,11 @@ The dataset contains information related to food delivery orders such as:
 - Encoding categorical variables (e.g., One-Hot Encoding / Label Encoding)
 - Feature transformation
 - Data normalization (if applied)
+
+- ## Live Demo
+
+Click here to use the app:  
+[Open Streamlit App] (https://fooddeliverymlproject-b6h9gv4gsmvywgfo2je6tv.streamlit.app/)
   
 
 
